@@ -1,10 +1,11 @@
+### Department of Studio Arts, Concordia University  
 # IMCA 222 Electronics for Artists 
 ## Winter 2025 - 
-Instructor: dr lee wilkins. 
-Class: Thursday 1:30 - 5:30 PM EV-S2-625. 
-Office hours: by appointment. 
-E-mail l.wilkins@concordia.ca * I will not reply to messages over the weekend, otherwise within 24h. 
-Website: http://leecyb.org. 
+Instructor: dr lee wilkins.   
+Class: Thursday 1:30 - 5:30 PM EV-S2-625.   
+Office hours: by appointment.   
+E-mail l.wilkins@concordia.ca * I will not reply to messages over the weekend, otherwise within 24h.   
+Website: http://leecyb.org.   
  
 —  
 
@@ -58,26 +59,26 @@ Buzzer	1.
 
 
 ## Schedule 
-September 4 Week 1 – Hello conductive Materials!   
-September 11 Week 2 – Buttons and switches on Bodies in Places. 
-September 18 Week 3 - Beautiful Circuit Due, Make a Sensor workshop. 
-September 25 Week 4 -  Working with lights, salvaging, circuit bending. 
-October 2 Week 5 - Silly Sensor Due Integrated circuits, 555, 4017, and logic chips. 
-October 9 Week 6 - Soldering! Guest Lecture TBD. 
-October 16 >> NO CLASS, HAVE A GOOD BREAK! <<. 
-October 23 Week 7 - Salvage Project Due. Movement, mechanisms, and motors   
-October 30 Week 8 -  Transistors and Relays   
-November 6 Week 9 - Soft Speaker Workshop, Wireless power transfer and other coil related things. 
-November 13 Week 10 - Studio Session. 
-November 27 Week 12 - Final critique. 
+September 4 Week 1 – Hello conductive Materials!     
+September 11 Week 2 – Buttons and switches on Bodies in Places.   
+September 18 Week 3 - Beautiful Circuit Due, Make a Sensor workshop.  
+September 25 Week 4 -  Working with lights, salvaging, circuit bending.   
+October 2 Week 5 - Silly Sensor Due Integrated circuits, 555, 4017, and logic chips.    
+October 9 Week 6 - Soldering! Guest Lecture TBD.   
+October 16 >> NO CLASS, HAVE A GOOD BREAK! <<.   
+October 23 Week 7 - Salvage Project Due. Movement, mechanisms, and motors     
+October 30 Week 8 -  Transistors and Relays    
+November 6 Week 9 - Soft Speaker Workshop, Wireless power transfer and other coil related things.   
+November 13 Week 10 - Studio Session.  
+November 27 Week 12 - Final critique.   
 
 ## Grading Brakdown
-Beautiful Circuit 15% - September 18
-Silly Sensors 15% - October 2
-Salvage 20% - October 23
-
-Final Project 40% - November 27
-Participation 10% 
+Beautiful Circuit 15% - September 18   
+Silly Sensors 15% - October 2   
+Salvage 20% - October 23  
+  
+Final Project 40% - November 27  
+Participation 10%   
  
 
 ## Late Policy
@@ -118,7 +119,5 @@ Surgical masks are not mandatory, but recommended. If you are sick, do not atten
 The most common offence under the Academic Code of Conduct is plagiarism, which the Code defines as “the presentation of the work of another person as one’s own or without proper acknowledgement.” This includes material copied word for word from books, journals, Internet sites, professor’s course notes, etc. It refers to material that is paraphrased but closely resembles the original source. It also includes for example the work of a fellow student, an answer on a quiz, data for a lab report, a paper or assignment completed by another student. It might be a paper purchased from any source. Plagiarism does not refer to words alone –it can refer to copying images, graphs, tables and ideas. “Presentation” is not limited to written work. It includes oral presentations, computer assignments and artistic works. Finally, if you translate the work of another person into any other language and do not cite the source, this is also plagiarism.
 
 In Simple Words: Do not copy, paraphrase or translate anything from anywhere without saying where you obtained it.  
-
-(Source: The Academic Integrity Website. 
 
 In a class like this, you will frequently use other people’s code and examples. This is totally fine, but you should indicate where you get it from AND change it meaningfully. Work that is a direct copy from a tutorial will not be accepted, even if it is cited. Work based on a tutorial should be indicated and linked.  
