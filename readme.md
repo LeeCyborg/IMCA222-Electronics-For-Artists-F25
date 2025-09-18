@@ -2,7 +2,7 @@
 # IMCA 222 Electronics for Artists 
 ## Winter 2025 - 
 Instructor: dr lee wilkins.   
-Class: Thursday 1:30 - 5:30 PM EV-S2-625.   
+Class: Thursday 8:30 - 12:30 PM EV-S2-625.   
 Office hours: by appointment.   
 E-mail l.wilkins@concordia.ca * I will not reply to messages over the weekend, otherwise within 24h.   
 Website: http://leecyb.org.   
